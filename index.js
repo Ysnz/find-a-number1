@@ -36,7 +36,7 @@ document.getElementById("nr_game").addEventListener("keyup", function(event){
      
     }
   }
-    /* CHECK IF VALUE IS A NUMBER */
+
   else if(nr_game==""){
      document.getElementById("answer").innerHTML="Weite the number";
   }
